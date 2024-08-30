@@ -11,7 +11,7 @@
     "https"
   ],
   "paths": {
-        "/evaluate-email": {
+        "/evaluate_email": {
       "get": {
         "summary": "Evaluate Email",
         "description": "Checks if given email address is in a data breach and returns a detailed response about the breach status",
@@ -62,7 +62,7 @@
         }
       }
     },
-    "/evaluate-phone-number": {
+    "/evaluate_phone_number": {
       "get": {
         "summary": "Evaluate Phone Number",
         "description": "Checks if given phone number is in ScamNet's whitelist/graylist/blacklist",
@@ -134,7 +134,7 @@
         }
       }
     },
-    "/report-phone-number": {
+    "/report_phone_number": {
       "post": {
         "summary": "Report Phone Number",
         "description": "Allows your users to report to ScamNet's managed & centralised database",
@@ -190,7 +190,7 @@
         }
       }
     },
-    "/evaluate-website": {
+    "/evaluate_website": {
       "get": {
         "summary": "Evaluate Website",
         "description": "Checks for scam indicators in the given website using our state of the art scam detection engine (Rule + ML Based)",
