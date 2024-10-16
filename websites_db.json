@@ -12,8 +12,6 @@
             "bing.com",
             "apple.com",
             "urlscan.io",
-            "reddit.com",
-            "youtube.com",
             "channelnewsasia.com",
             "a-list.sg",
             "activehealth.sg",
@@ -294,6 +292,7 @@
             "whatsapp.net",
             "whatsapp.com",
             "senoko.sg",
+            "senokoenergy.com",
             "simba.sg"
         ],
         "hosts": [
