@@ -276,6 +276,7 @@
 
         ],
         "tlds": [
+            ".local",
             ".gov.sg",
             ".edu.sg",
             ".org.sg",
